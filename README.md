@@ -1,5 +1,6 @@
 -----
-Vanitygen PLUS!  
+Vanitygen PLUS WITH X11 MONETARYUNIT SUPPORT
+USE: ./vanitygen -C MUE 7(..)
 -----
   
 **Download the latest binary from: https://github.com/exploitagency/vanitygen-plus/releases !**  
