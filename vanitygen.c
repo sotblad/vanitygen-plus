@@ -983,8 +983,8 @@ main(int argc, char **argv)
 			if (strcmp(optarg, "MUE")== 0) {
 				fprintf(stderr,
 					"Generating MUE Address\n");
-					addrtype = 15;
-					privtype = 143;
+					addrtype = 16;
+					privtype = 126;
 					break;
 			}
 			else
